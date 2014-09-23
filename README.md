@@ -2,6 +2,8 @@
 
 # by Derek Braid 
 
-I am a web developer who loves Meteor JS.  This is the a tutorial to showcase a few key, but simple, features of Meteor for beginnners or those exploring a new web framework.
+My homepage is cacheflow.ca.  I am a web developer who loves Meteor JS.  
 
-Please sent comments and questions to Twitter: @Royal_Arse 
+This tutorial features a few key, but simple, features of Meteor for beginnners, which explores a few core concepts of the best new web framework.
+
+Please send comments and questions to Twitter: @Royal_Arse 
