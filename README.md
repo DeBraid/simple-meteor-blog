@@ -2,7 +2,7 @@
 
 # by Derek Braid 
 
-(Full Video Tutorial on Youtube)[http://youtu.be/IuaaSIY2nqQ]
+Full Video Tutorial on Youtube here: http://youtu.be/IuaaSIY2nqQ
 
 My homepage is cacheflow.ca.  I am a web developer who loves Meteor JS.  
 
